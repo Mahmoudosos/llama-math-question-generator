@@ -1,4 +1,3 @@
-# llama-math-question-generator
 # Llama Math Question Generator
 
 This project uses a local LLM (Mistral 7B) running via `llama-cpp-python` to generate new multiple-choice math questions based on provided examples. The script is designed to run in a Google Colab environment, leveraging its free GPU resources for faster inference.
