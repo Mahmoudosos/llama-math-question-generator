@@ -37,7 +37,3 @@ This project uses a local LLM (Mistral 7B) running via `llama-cpp-python` to gen
     The script is designed to be run directly. Simply execute all cells in the Colab notebook. The output for each generated question will be displayed in Markdown format.
 
 
-
-## Example Output
-
-The script will generate output that looks like this:
