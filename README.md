@@ -36,8 +36,7 @@ This project uses a local LLM (Mistral 7B) running via `llama-cpp-python` to gen
 2.  **Run the Script**:
     The script is designed to be run directly. Simply execute all cells in the Colab notebook. The output for each generated question will be displayed in Markdown format.
 
-3.  **Customize Questions**:
-    To generate new questions, modify the `QUESTIONS_TO_GENERATE` list in `generator_config.py`. Add a new dictionary for each desired question, following the existing format.
+
 
 ## Example Output
 
