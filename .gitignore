@@ -1,0 +1,9 @@
+# Ignore the Llama model file (it's too large for Git)
+/content/drive/MyDrive/Llama_CPP_Models/mistral-7b-instruct-v0.2.Q4_K_M.gguf
+
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore Jupyter notebooks checkpoints
+.ipynb_checkpoints/
